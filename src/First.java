@@ -5,7 +5,6 @@ public class First {
             System.out.println("naber");
         } void method2(){
         System.out.println("booo");
-        System.out.println("elifcik");
     }
     }
 
